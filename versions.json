@@ -1,0 +1,82 @@
+{
+    "platforms": [
+      {
+        "name": "Android",
+        "versions": [
+            {
+                "version": "0.1",
+                "builds": [
+                  {"name": "a0.1.0", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.0.apk"},
+                  {"name": "a0.1.0 demo canada", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.0-demo-canada.apk"},
+                  {"name": "a0.1.0 demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.0-demo.apk"},
+                  {"name": "a0.1.0 touch", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.0-touch.apk"}
+                ]
+              },
+              {
+                "version": "0.1.1",
+                "builds": [
+                  {"name": "a0.1.1", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.1.apk"},
+                  {"name": "a0.1.1 demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.1-demo.apk"},
+                  {"name": "a0.1.1j-demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.1j-demo.apk"},
+                  {"name": "a0.1.1j", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.1j.apk"}
+                ]
+              },
+              {
+                "version": "0.1.2",
+                "builds": [
+                  {"name": "a0.1.2", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.2.apk"},
+                  {"name": "a0.1.2 demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.2-demo.apk"},
+                  {"name": "a0.1.2j-demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.2j-demo.apk"},
+                  {"name": "a0.1.2j", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.2j.apk"}
+                ]
+              },
+              {
+                "version": "0.1.3",
+                "builds": [
+                  {"name": "a0.1.3j", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.3j.apk"},
+                  {"name": "a0.1.3j-demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.3j-demo.apk"}
+                ]
+              },
+              {
+                "version": "0.1.3-1",
+                "builds": [
+                  {"name": "a0.1.3-1", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.3-1.apk"},
+                  {"name": "a0.1.3-1 demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.3-1-demo.apk"}
+                ]
+              },
+              {
+                "version": "0.1.3-2",
+                "builds": [
+                  {"name": "a0.1.3-2", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.3-2.apk"},
+                  {"name": "a0.1.3-2 demo", "link": "https://archive.org/download/MCPEAlpha/PE-a0.1.3-2-demo.apk"}
+                ]
+              }
+        ]
+      },
+      {
+        "name": "IPA",
+        "versions": [
+          {
+            "version": "6.6.6",
+            "builds": [
+              {"name": "a6.6.6.1", "link": "https://colbux.github.io/"},
+              {"name": "a6.6.6.2", "link": "https://colbux.github.io/404"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "versions": [
+          {
+            "version": "7.7.7",
+            "builds": [
+                {"name": "a7.7.7.1", "link": "https://colbux.github.io/"},
+                {"name": "a7.7.7.2", "link": "https://colbux.github.io/404"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
